@@ -1,0 +1,9 @@
+load/unload
+	car number
+	load location
+	unload location
+	total payment
+	pay
+	due
+
+	** payment update option
